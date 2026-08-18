@@ -5,9 +5,10 @@
 ---
 
 ### 🚀 About Me
-- 🎓 **Education:** M.S. in Computer Science (UC Davis) & M.S. in Economic Analysis (Cal Poly Pomona)
+- 🎓 **Education:** M.S. in Computer Science (UC Davis) & M.S. in Economic Analysis (Cal Poly Pomona) 
 - 🎯 **Focus Areas:** Product Strategy, Hardware & Cloud Infrastructure, Unit Economics, Supply Chain Operations, and Business Analytics
-- 💡 **Intellectual Property:** Co-inventor on US Patent Application 
+- 💡 **Intellectual Property:** Co-inventor on US Patent Application
+- 📜 **Certifications:** Data Analytics Boot Camp Certificate — *UC Berkeley Extension*
 
 ---
 
